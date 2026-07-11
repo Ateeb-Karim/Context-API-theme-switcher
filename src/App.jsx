@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import ThemeContext from './Context/ThemeContext'
+import {ThemeContext} from './Context/ThemeContext'
 import CardUI from './Components/CardUI'
 
 function App() {
